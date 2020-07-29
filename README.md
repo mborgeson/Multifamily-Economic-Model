@@ -5,7 +5,7 @@
  - **Project Version Control**
  - **Project Communication and Update Platform**
  - **Information & Article Repository**
- - **[TBD]**
+ - **Repository for Project Information Stored Externally**
  - **[TBD]**
  - **[TBD]**
  - **[TBD]** 
@@ -28,13 +28,13 @@
  - **[TBD]**
  - **[TBD]**
 
-
-
-
-
- ## [TBD]:
+ ## Repository for Project Information Stored Externally:
  - **[TBD]**
  - **[TBD]**
+
+
+
+
 
  ## [TBD]:
  - **[TBD]**
